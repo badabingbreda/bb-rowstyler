@@ -5,7 +5,7 @@ This  Beaver Builder plugin demonstrates how to extend the background styles for
 ###How to install
 ------
 
- - Unzip the archive and put the bb-livepreview folder into your plugins folder (/wp-content/plugins/).
+ - Unzip the archive and put the bb-rowstyler folder into your plugins folder (/wp-content/plugins/).
  - Activate the plugin from the Plugins menu.
 
 ###Using this plugin
